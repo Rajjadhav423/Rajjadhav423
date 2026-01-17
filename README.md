@@ -47,7 +47,7 @@ Currently exploring advanced Salesforce automation, cloud microservices, and AI-
 
 ### 📫 Let's Connect
 🌐 [LinkedIn](https://linkedin.com/in/rajeshjadhav057)  
-💻 [Portfolio (optional if hosted)](https://yourportfolio.com)  
+💻 [Portfolio](https://rajeshjadhav.me)  
 📧 2021bit057@sggs.ac.in  
 
 ---
